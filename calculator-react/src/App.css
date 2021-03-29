@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.result{
+  background-color: #bbb;
+  height: 60px;
+  width: 100%;
+}
+
+.result p {
+  font-size: 50px;
+}
+
+.calculator-body{
+  max-width: 400px;
+  margin: auto;
+}
+
+.buttons{
+  display: block;
+  background-color: #bbb;
+}
+
+.buttons button {
+  width: 25%;
+  height: 60px;
+  font-size: 20px;
+
+}
+
